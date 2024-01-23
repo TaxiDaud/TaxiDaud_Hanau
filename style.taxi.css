@@ -1,0 +1,46 @@
+body
+{
+  background-color: 
+white;
+  color: 
+black;
+  font-size: medium;
+  font-family: Tahoma, Geneva, sans-serif ;
+  
+}
+
+.img 
+{
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	height: 150px
+}
+
+.mitte
+{
+
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+h1, h3
+{
+  font-weight: bold;
+  font-style: normal;
+  color: #4a148c;
+}
+
+h1
+{
+  font-size: 200%;
+}
+
+h3
+{
+  font-size: 100%;
+}
+
+
+
